@@ -1,0 +1,37 @@
+/* border color #bdc3c7
+date color #3498db
+h2 color
+
+font source sans pro */
+
+body {
+  border: 20px solid #bdc3c7;
+  padding: 20px;
+  width: 50%;
+  margin: 20px auto;
+}
+
+h3 {
+  font-family: source sans pro;
+  font-size: 15px;
+  color: #3498db;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+h2 {
+  color: #2c3e50;
+  text-transform: capitalize;
+  font-family: source sans pro;
+  font-weight: 800;
+  font-size: 28px;
+}
+
+.firstPara {
+  border-left: 5px solid #bdc3c7;
+  padding-left: 5px;
+}
+
+p {
+  font-family: source sans pro;
+}
